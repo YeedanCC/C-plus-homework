@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "第七章第四题（2）", "第七章第四题（2）\第七章第四题（2）.vcproj", "{1C9E4F25-D1DB-4B29-B426-0EDB52FA6750}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C9E4F25-D1DB-4B29-B426-0EDB52FA6750}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1C9E4F25-D1DB-4B29-B426-0EDB52FA6750}.Debug|Win32.Build.0 = Debug|Win32
+		{1C9E4F25-D1DB-4B29-B426-0EDB52FA6750}.Release|Win32.ActiveCfg = Release|Win32
+		{1C9E4F25-D1DB-4B29-B426-0EDB52FA6750}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
